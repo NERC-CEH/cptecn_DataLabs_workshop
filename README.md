@@ -2,6 +2,26 @@
 Repo of the online project workshop for a Constructing a Digital Environment Pilot Study using ECN data 
 (NE/T006102/1, Methodologically Enhanced Virtual Labs for Early Warning of Significant or Catastrophic Change in Ecosystems: Changepoints for a Changing Planet)
 
+# Coverage
+Youtube:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WDBXpkzLRM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Blog post (Data Science for the Natural Environment)](https://www.lancaster.ac.uk/data-science-of-the-natural-environment/blogs/methodologically-enhanced-virtual-labs-the-next-crucial-step-to-support-collaborative-environmental-data-science)
+
+# Project participants (UKCEH and Lancaster University)
+    Lindsay Banin
+    Gordon Blair
+    Idris Eckley
+    Peter Henrys 
+    Michael Hollaway 
+    Rebecca Killick
+    AaronLowther
+    Don Monteith
+    Susannah Rennie
+    Will Simms
+    Michael Tso
+    John Watkins 
+
 # Description of the files in the lab
 
     EDA-ALL-Moth.ipynb: This is the most recent notebook looking at the moth data. We rigorously consider how best to combine the data, highlight any problems/issues with the data and apply the changepoint.msr approach in a preliminary example.
