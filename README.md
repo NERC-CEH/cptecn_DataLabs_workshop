@@ -3,9 +3,7 @@ Repo of the online project workshop for a Constructing a Digital Environment Pil
 (NE/T006102/1, Methodologically Enhanced Virtual Labs for Early Warning of Significant or Catastrophic Change in Ecosystems: Changepoints for a Changing Planet)
 
 # Coverage
-Youtube:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WDBXpkzLRM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Webinar (YouTube)](https://www.youtube.com/embed/WDBXpkzLRM8)
 
 [Blog post (Data Science for the Natural Environment)](https://www.lancaster.ac.uk/data-science-of-the-natural-environment/blogs/methodologically-enhanced-virtual-labs-the-next-crucial-step-to-support-collaborative-environmental-data-science)
 
