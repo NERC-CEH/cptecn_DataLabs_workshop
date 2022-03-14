@@ -1,6 +1,9 @@
-# cptecn_workshop
+# cptecn_DataLabs_workshop
+
 Repo of the online project workshop for a Constructing a Digital Environment Pilot Study using ECN data 
 (NE/T006102/1, Methodologically Enhanced Virtual Labs for Early Warning of Significant or Catastrophic Change in Ecosystems: Changepoints for a Changing Planet)
+
+Project period: 2020-2021
 
 # Coverage
 [Webinar (YouTube)](https://www.youtube.com/embed/WDBXpkzLRM8)
